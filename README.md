@@ -2,7 +2,7 @@
 
 A [SpaceAPI](https://spaceapi.io/) status display built on the TTGO T-Display ESP32. Shows the open/closed status of hackerspaces in real time.
 
-![TTGO T-Display](https://www.lilygo.cc/cdn/shop/products/T-Display.jpg?v=1658194due&width=600)
+![SpaceAPI Client](spaceAPI-client.jpg)
 
 ## Features
 
