@@ -49,7 +49,7 @@ pio run --target upload && pio device monitor
 3. Select your WiFi network and enter the password
 4. Go to the **param** page to configure:
    - **Hostname** — device network name
-   - **SpaceAPI** — one URL per line (e.g. `https://spaceapi.syn.camp/`)
+   - **SpaceAPI** — one URL per line
 5. Save — the device connects to WiFi and starts displaying space statuses
 
 ### Finding SpaceAPI URLs
